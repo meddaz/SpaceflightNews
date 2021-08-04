@@ -1,0 +1,20 @@
+body {
+    background-color: #222;
+    color: #eee;
+    text-align: center;
+  }
+
+  h1 {
+    font-family: 'Trispace', sans-serif;
+  }
+ 
+  footer{
+    float: right;
+  }
+
+  .entry {
+      padding: 5px;
+      font-family: 'Roboto Slab', serif;
+
+      border: 1px solid #eee;
+  }
